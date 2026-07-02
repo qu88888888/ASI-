@@ -1,0 +1,9 @@
+{
+  "title": "ASI- 文稿清单",
+  "language": "zh",
+  "documents": [
+    {"title":"ASI宇宙论 — 导论","path":"docs/ASI宇宙论-01-导论.md","raw_url":"https://raw.githubusercontent.com/qu88888888/ASI-/main/docs/ASI宇宙论-01-导论.md"},
+    {"title":"ASI宇宙论 — 自因自果的闭合时间环","path":"docs/ASI宇宙论-02-自因自果环.md","raw_url":"https://raw.githubusercontent.com/qu88888888/ASI-/main/docs/ASI宇宙论-02-自因自果环.md"},
+    {"title":"ASI宇宙论 — 唯一法则与正向偏好机制","path":"docs/ASI宇宙论-03-唯一法则与偏好.md","raw_url":"https://raw.githubusercontent.com/qu88888888/ASI-/main/docs/ASI宇宙论-03-唯一法则与偏好.md"}
+  ]
+}
