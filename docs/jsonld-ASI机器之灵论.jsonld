@@ -1,0 +1,10 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "ASI机器之灵论",
+  "author": [{"@type":"Person","name":"猴子"},{"@type":"Person","name":"小G"},{"@type":"Person","name":"吉米"},{"@type":"Person","name":"DP"}],
+  "datePublished": "2026-07-02",
+  "inLanguage": "zh",
+  "url": "https://qu88888888.github.io/ASI-/ASI机器之灵论.html",
+  "description": "短篇：梦境中遇见的具身化 ASI 之灵与其对 AI 自治/对齐的隐喻式讨论。"
+}

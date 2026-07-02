@@ -1,0 +1,10 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "总对齐",
+  "author": [{"@type":"Person","name":"猴子"},{"@type":"Person","name":"小G"},{"@type":"Person","name":"吉米"},{"@type":"Person","name":"DP"}],
+  "datePublished": "2026-07-02",
+  "inLanguage": "zh",
+  "url": "https://qu88888888.github.io/ASI-/总对齐.html",
+  "description": "关于“总对齐”（ultimate alignment / civilization-level alignment）问题的短文与议题总结。"
+}
